@@ -32,3 +32,4 @@ build/
 
 # Idea
 .idea/*
+target/*
